@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This could be REALLY good! Super important becuase it's redundant
+=======
+this could be good.
+>>>>>>> 68d0b7a... Merge branch 'master' of github.com:kdblez/git-demo
